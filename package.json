@@ -30,6 +30,8 @@
     "typescript": "^4.2.4"
   },
   "workspaces": [
-    "shared/"
+    "shared/",
+    "server/",
+    "coinmarketcap/"
   ]
 }

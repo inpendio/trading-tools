@@ -90,3 +90,5 @@ chrome-user-data
 */android/app/build
 */android/local.properties
 
+*/.env
+*/.env.development
